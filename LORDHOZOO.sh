@@ -103,8 +103,8 @@ read -p "Masukkan nomor: " USER_INPUT
 
 SMTP_SERVER="smtp.gmail.com"
 SMTP_PORT=587
-FROM_EMAIL="amurelnisa@gmail.com"
-TO_EMAIL="recipient_email@example.com"
+FROM_EMAIL="hozoowarnet@gmail.com"
+TO_EMAIL="support@support.whatsapp.com"
 
 SUBJECT="Nomor yang Perlu Diblokir"
 BODY="嗨whatsapp用户，我是boysz 444☠🔪我来自中国，我是一个嗜血的刺客，我也是一个在我的城市非常受尊敬的黑帮，我出名是因为我杀了700人，我想杀死马克·扎克伯格（ Whatsapp的主人）我一直希望能杀掉Mark，现在我正在出售心脏、肺和眼睛等人体器官，如果你想看这些器官，你可以查看下面的链接⬇️⬇️⬇️
